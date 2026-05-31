@@ -40,6 +40,6 @@ The website consists of the following sections:
 - **Gallery** – Showcase of events, activities, and community engagement.
 - **Contact** – Contact information and communication details for visitors.
 
-  ## 🚀 Live Website
+## 🚀 Live Website
 
 Link : https://lanterncharitabletrust.framer.website/
